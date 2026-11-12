@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cloud Rescue Patrol</string>
+
+    <string name="splash_title">CLOUD RESCUE PATROL</string>
+    <string name="splash_subtitle">AVIATOR SKY RESCUE</string>
+    <string name="splash_status">PREFLIGHT CHECKS</string>
+
+    <string name="menu_title">CLOUD RESCUE PATROL</string>
+    <string name="menu_tagline">CATCH THE BALLOONS IN ORDER · DODGE THE STORM</string>
+    <string name="menu_empty_hint">NEW PATROL · START WITH DAWN PATROL</string>
+    <string name="play">PLAY</string>
+    <string name="route_levels">LEVELS</string>
+    <string name="route_collection">COLLECTION</string>
+    <string name="route_progress">PROGRESS</string>
+    <string name="route_settings">SETTINGS</string>
+
+    <string name="title_level_select">LEVEL SELECT</string>
+    <string name="title_collection">COLLECTION</string>
+    <string name="title_progress">PROGRESS</string>
+    <string name="title_settings">SETTINGS</string>
+
+    <string name="label_best_score">BEST SCORE</string>
+    <string name="label_levels_cleared">LEVELS CLEARED</string>
+    <string name="label_rescues">RESCUES</string>
+    <string name="label_best_streak">BEST STREAK</string>
+    <string name="label_time_left">TIME LEFT</string>
+    <string name="label_total_rescues">TOTAL RESCUES</string>
+    <string name="label_accuracy">SEQUENCE ACCURACY</string>
+    <string name="label_stars">STARS</string>
+
+    <string name="value_stars">%1$d/%2$d</string>
+    <string name="value_wind">WIND %1$d</string>
+    <string name="value_best">BEST %1$d</string>
+    <string name="value_plain">%1$d</string>
+    <string name="value_percent">%1$d%%</string>
+    <string name="value_seconds">%1$ds</string>
+    <string name="value_multiplier">x%1$s</string>
+    <string name="value_locked_score">- - -</string>
+    <string name="locked_hint">CLEAR LEVEL %1$d TO UNLOCK</string>
+    <string name="collection_counter">%1$d/%2$d</string>
+
+    <string name="cd_menu">Return to menu</string>
+    <string name="cd_pause">Pause the patrol</string>
+    <string name="cd_glider">Rescue glider</string>
+    <string name="cd_emblem">Patrol emblem</string>
+    <string name="cd_storm">Storm cell</string>
+    <string name="cd_balloon_cyan">Cyan sounding balloon</string>
+    <string name="cd_balloon_amber">Amber sounding balloon</string>
+    <string name="cd_balloon_violet">Violet sounding balloon</string>
+
+    <string name="hud_score">SCORE</string>
+    <string name="hud_rescued">RESCUED %1$d/%2$d</string>
+    <string name="hud_lift">LIFT</string>
+    <string name="hud_time">TIME %1$ds</string>
+    <string name="hint_controls">DRAG ANYWHERE TO BANK · RELEASE TO AUTO-TRIM</string>
+    <string name="banner_wind_shift">WIND SHIFT</string>
+    <string name="banner_scrambled">SEQUENCE SCRAMBLED</string>
+    <string name="ready_title">MISSION CARD</string>
+    <string name="go">GO</string>
+    <string name="flare">FLARE</string>
+
+    <string name="pause_title">PATROL HELD</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="menu">MENU</string>
+
+    <string name="verdict_cleared">SKIES CLEARED</string>
+    <string name="verdict_timeout">BALLOONS LOST</string>
+    <string name="verdict_grounded">PATROL GROUNDED</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="unlocked_banner">UNLOCKED</string>
+    <string name="play_again">FLY AGAIN</string>
+
+    <string name="collection_empty">FLY A PATROL TO START THE LOG</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="confirm_reset_title">RESET PATROL LOG</string>
+    <string name="confirm_reset_body">Every best score, star and collection entry is cleared and the patrol starts from Dawn Patrol again.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset">RESET</string>
+
+    <string name="setting_sensitivity">CONTROL SENSITIVITY</string>
+    <string name="setting_sensitivity_hint">How quickly the glider follows your finger across the lanes.</string>
+    <string name="setting_markers">COLOUR-BLIND MARKERS</string>
+    <string name="setting_markers_hint">Adds circle, triangle and square badges to balloons and mission chips.</string>
+    <string name="setting_motion">REDUCED MOTION</string>
+    <string name="setting_motion_hint">Stops the aurora drift and shortens every screen transition.</string>
+    <string name="setting_flare_side">FLARE BUTTON SIDE</string>
+    <string name="setting_flare_side_hint">Mirrors the floating control pill for left or right handed flying.</string>
+    <string name="option_low">LOW</string>
+    <string name="option_normal">NORMAL</string>
+    <string name="option_high">HIGH</string>
+    <string name="option_left">LEFT</string>
+    <string name="option_right">RIGHT</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_ready">READY</string>
+    <string name="state_charging">CHARGING</string>
+
+    <string name="level_1">DAWN PATROL</string>
+    <string name="level_2">CIRRUS DRIFT</string>
+    <string name="level_3">THERMAL ALLEY</string>
+    <string name="level_4">SQUALL LINE</string>
+    <string name="level_5">NIGHT FERRY</string>
+    <string name="level_6">STRATOSPHERE</string>
+
+    <string name="card_cyan_name">CYAN SOUNDING BALLOON</string>
+    <string name="card_cyan_log">A standard dusk sounding balloon, cyan envelope, instrument package swinging below.</string>
+    <string name="card_cyan_cond">RESCUE YOUR FIRST BALLOON</string>
+    <string name="card_amber_name">AMBER SOUNDING BALLOON</string>
+    <string name="card_amber_log">Amber envelope, warm layer probe. Rides higher than the cyan sounding balloons.</string>
+    <string name="card_amber_cond">COMPLETE ONE MISSION CARD</string>
+    <string name="card_violet_name">VIOLET SOUNDING BALLOON</string>
+    <string name="card_violet_log">Violet night probe. Rare, slow and worth the detour across two lanes.</string>
+    <string name="card_violet_cond">COMPLETE A THREE COLOUR CARD</string>
+    <string name="card_mk1_name">PATROL GLIDER MK I</string>
+    <string name="card_mk1_log">The training airframe. Forgiving in wind, modest in lift, trusted by every new patrol.</string>
+    <string name="card_mk1_cond">CLEAR DAWN PATROL</string>
+    <string name="card_mk2_name">LONG WING MK II</string>
+    <string name="card_mk2_log">Stretched wings for thermal work. Climbs on columns the Mk I would fly straight through.</string>
+    <string name="card_mk2_cond">CLEAR THERMAL ALLEY</string>
+    <string name="card_mk3_name">STORM RUNNER MK III</string>
+    <string name="card_mk3_log">Reinforced leading edge and a bigger flare bay for the stratosphere ferry runs.</string>
+    <string name="card_mk3_cond">CLEAR STRATOSPHERE</string>
+    <string name="card_thermal_name">THERMAL COLUMN</string>
+    <string name="card_thermal_log">A rising shaft of warm air. Sit inside it and the lift gauge fills in a couple of seconds.</string>
+    <string name="card_thermal_cond">CHARGE LIFT TO FULL ONCE</string>
+    <string name="card_anvil_name">ANVIL CELL</string>
+    <string name="card_anvil_log">The flat topped storm. A beacon flare calms its core long enough to slip past.</string>
+    <string name="card_anvil_cond">FIRE FIVE BEACON FLARES</string>
+    <string name="card_cirrus_name">NIGHT CIRRUS</string>
+    <string name="card_cirrus_log">Ice cloud above the ferry lanes. Only seen by patrols flying a perfect colour chain.</string>
+    <string name="card_cirrus_cond">REACH A THREE TIMES STREAK</string>
+</resources>
